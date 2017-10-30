@@ -9,7 +9,7 @@ def hilo(i):
  :param i: numero de hilo a efectos ilustrativos
  :return: nada
  """
- print "[+] En hilo %d\n" % i
+ print "[+] En hilo %d\n" % 1
     time.sleep(3)
     print "[-] hilo %d finalizado\n" % i
 
